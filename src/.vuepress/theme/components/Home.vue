@@ -133,7 +133,7 @@ export default {
 				color #fff
 				cursor pointer
 				display inline-block
-				font-family $buttonFontFamily
+				font-family $fontCode
 				font-size 1.125rem
 				margin 0.25rem
 				padding 0.8rem
