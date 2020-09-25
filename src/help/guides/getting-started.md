@@ -13,7 +13,7 @@ When you've completed the download, open the <VersionTag fileName/> file and pro
 
 ## Installing an extension
 
-::: aside-guide
+::: videolink
 [<MaterialIcon icon="videocam"/> Click for video guide](/help/guides/getting-started/assets/Extension-Install.mp4)
 :::
 
@@ -23,13 +23,13 @@ Find the extension that you'd like to use then press the <Navigation item="insta
 
 ::: c-warning
 You *might* be stopped by a security prompt while attempting to install an extension. If that were to happen then you need to allow **Tachiyomi** the permission to *install unknown apps*.
-::: aside
+::: note
 Learn how you can do so [here](/help/faq/#how-do-i-allow-third-party-installations)
 :::
 
 ## Adding manga to your library
 
-::: aside-guide
+::: videolink
 [<MaterialIcon icon="videocam"/> Click for video guide](/help/guides/getting-started/assets/Library-Add.mp4)
 :::
 
@@ -50,7 +50,7 @@ Check your spelling and try again, there's also the chance that your used source
   > For example **Bungo Stray Dogs** instead of **Bungou Stray Dogs**.
 * Some sources use different wordings
  > For example **3-gatsu no Lion** instead of **Sangatsu no Lion**.
-::: aside
+::: note
 Find more potential answers to your questions [here](/help/faq/#why-can-t-i-find-x-manga).
 :::
 ::::
